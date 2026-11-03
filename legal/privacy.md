@@ -52,4 +52,4 @@ When this policy changes we post the new version here with a new effective date 
 
 ## Contact
 
-Ansel LaPier · [ironmanansel@gmail.com](mailto:ironmanansel@gmail.com) · [COUNTRY TO CONFIRM]
+Ansel LaPier · [ironmanansel@gmail.com](mailto:ironmanansel@gmail.com) · Washington, United States

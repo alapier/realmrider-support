@@ -6,7 +6,7 @@ Help for Realmrider 1.2 on iPhone, iPad, Mac and Android. Updated 3 November 202
 
 Questions, bug reports, accessibility problems or purchase trouble: email [ironmanansel@gmail.com](mailto:ironmanansel@gmail.com). We reply within **two business days**, usually sooner. Please say which device you play on and what version of the game is shown at the bottom of Settings.
 
-Realmrider is made and published by **Ansel LaPier**, [COUNTRY TO CONFIRM]. There is no company behind it; you are writing to the person who made the game.
+Realmrider is made and published by **Ansel LaPier**, Washington State, United States. There is no company behind it; you are writing to the person who made the game.
 
 ## Ad-free Realm
 

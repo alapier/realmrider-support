@@ -50,7 +50,7 @@ You can end it by deleting the game. We can end it if you break these terms. Sec
 
 ## 10. Law and disputes
 
-These terms are governed by the law of [COUNTRY / STATE TO CONFIRM], without affecting the mandatory consumer law of the place you live. We would rather sort any problem out by email first.
+These terms are governed by the law of the State of Washington, United States, without affecting the mandatory consumer law of the place you live. We would rather sort any problem out by email first.
 
 ## 11. Changes to these terms
 
@@ -58,4 +58,4 @@ When these terms change we post the new version here with a new effective date a
 
 ## Contact
 
-Ansel LaPier · [ironmanansel@gmail.com](mailto:ironmanansel@gmail.com) · [POSTAL ADDRESS OR COUNTRY TO CONFIRM]
+Ansel LaPier · [ironmanansel@gmail.com](mailto:ironmanansel@gmail.com) · Washington, United States
