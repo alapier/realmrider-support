@@ -1,6 +1,6 @@
 # Realmrider Refund Policy
 
-Effective 2 November 2026 · Version 1.0 · [Support](../index.html) · [Privacy](privacy.html) · [Terms](terms.html) · [Cookies](cookies.html)
+Effective 3 November 2026 · Version 1.0 · [Support](../index.html) · [Privacy](privacy.html) · [Terms](terms.html) · [Cookies](cookies.html)
 
 Realmrider sells one thing: **Ad-free Realm**, a one-time purchase that removes the ad break after rounds. Every purchase is made through Apple's App Store (iPhone, iPad, Mac) or Google Play (Android). The store takes your payment and the store issues refunds; we never hold your money or payment details, so the fastest route is always through the store. Nothing here limits the refund rights consumer law gives you where you live.
 

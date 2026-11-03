@@ -1,6 +1,6 @@
 # Realmrider Cookie Policy
 
-Effective 2 November 2026 · Version 1.0 · [Support](../index.html) · [Privacy](privacy.html) · [Terms](terms.html) · [Refunds](refunds.html)
+Effective 3 November 2026 · Version 1.0 · [Support](../index.html) · [Privacy](privacy.html) · [Terms](terms.html) · [Refunds](refunds.html)
 
 ## Cookies
 
@@ -19,7 +19,7 @@ The game loads fonts from Google Fonts. Google states that the Google Fonts API 
 
 ## Clearing it
 
-In the game: Settings › Support and privacy › Delete my data. In a browser: clear site data for the game's address. Deleting the app removes everything.
+In the game: Settings › Support and privacy › Delete my data (versions released after 2 November 2026); in older versions, delete the app. In a browser: clear site data for the game's address. Deleting the app removes everything.
 
 ## Contact
 

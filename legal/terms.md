@@ -1,6 +1,6 @@
 # Realmrider Terms of Service
 
-Effective 2 November 2026 · Version 1.0 · [Support](../index.html) · [Privacy](privacy.html) · [Refunds](refunds.html) · [Cookies](cookies.html)
+Effective 3 November 2026 · Version 1.0 · [Support](../index.html) · [Privacy](privacy.html) · [Refunds](refunds.html) · [Cookies](cookies.html)
 
 These terms are an agreement between you and Ansel LaPier ("we"), the publisher of Realmrider, for the Realmrider game on iPhone, iPad, Mac, Android and the web. By installing or playing Realmrider you accept them. If you are under the age of majority where you live, a parent or guardian must agree for you.
 

@@ -1,6 +1,6 @@
 # Realmrider Privacy Policy
 
-Effective 2 November 2026 · Version 2.0 · [Support](../index.html) · [Terms](terms.html) · [Refunds](refunds.html) · [Cookies](cookies.html)
+Effective 3 November 2026 · Version 2.0 · [Support](../index.html) · [Terms](terms.html) · [Refunds](refunds.html) · [Cookies](cookies.html)
 
 Realmrider is made and published by Ansel LaPier ("we"). This policy covers the Realmrider game for iPhone, iPad, Mac and Android, and the web build. It describes only what the game actually does; it was written from the game's source code.
 
@@ -9,7 +9,7 @@ Realmrider is made and published by Ansel LaPier ("we"). This policy covers the 
 - Realmrider has no accounts, no sign-in, no analytics, no crash reporting, no advertising network and no tracking of any kind.
 - Everything the game saves stays on your device. We run no server and we never receive your progress, settings or anything else.
 - The one purchase, Ad-free Realm, is handled entirely by Apple or Google. We never see your name, email or payment details.
-- You can erase everything the game stored at any time from Settings › Support and privacy › Delete my data.
+- You can erase everything the game stored at any time by deleting the app, or from Settings › Support and privacy › Delete my data in game versions released after 2 November 2026.
 
 ## What the game stores on your device
 
