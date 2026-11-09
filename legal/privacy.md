@@ -1,12 +1,12 @@
 # Realmrider Privacy Policy
 
-Effective 3 November 2026 · Version 2.0 · [Support](../index.html) · [Terms](terms.html) · [Refunds](refunds.html) · [Cookies](cookies.html)
+Effective [DATE OF THE ADS RELEASE] · Version 3.0 (draft) · [Support](../index.html) · [Terms](terms.html) · [Refunds](refunds.html) · [Cookies](cookies.html)
 
 Realmrider is made and published by Ansel LaPier ("we"). This policy covers the Realmrider game for iPhone, iPad, Mac and Android, and the web build. It describes only what the game actually does; it was written from the game's source code.
 
 ## The short version
 
-- Realmrider has no accounts, no sign-in, no analytics, no crash reporting, no advertising network and no tracking of any kind.
+- Realmrider has no accounts, no sign-in, no analytics and no crash reporting. In the iPhone, iPad and Android apps, the break after each round shows ads from Google AdMob; you choose whether those ads may be personalised (see Ads below).
 - Everything the game saves stays on your device. We run no server and we never receive your progress, settings or anything else.
 - The one purchase, Ad-free Realm, is handled entirely by Apple or Google. We never see your name, email or payment details.
 - You can erase everything the game stored at any time by deleting the app, or from Settings › Support and privacy › Delete my data in game versions released after 2 November 2026.
@@ -32,11 +32,17 @@ None of this is sent to us. Deleting the app, or using Delete my data in Setting
 - **Fonts (Google Fonts).** The game loads its four display fonts from fonts.googleapis.com and fonts.gstatic.com. Like any web request this sends your IP address and browser or app version to Google. Google states that the Fonts API does not set cookies and does not use these requests for advertising. See [Google's privacy policy](https://policies.google.com/privacy) and the [Google Fonts privacy notes](https://developers.google.com/fonts/faq/privacy). If the fonts cannot load, the game uses built-in fonts instead.
 - **Local multiplayer (your own Wi-Fi only).** When you host or join a game the two devices find each other on the local network (Bonjour/mDNS) and talk directly to each other. The host device advertises its display name; during the round the devices exchange the display names, the chosen armory loadout, positions, steering and game state. Nothing goes to any server and nothing is kept after the round. iOS asks for Local Network permission for this; the game does nothing else with that permission.
 
-That is the complete list. The game does not use your location, contacts, camera, microphone, photos, advertising identifier or push notifications.
+- **Ads (Google AdMob, iPhone, iPad and Android apps only).** See Ads below.
+
+That is the complete list. The game does not use your precise location, contacts, camera, microphone, photos or push notifications.
 
 ## Ads
 
-Free play includes a 15-second break after each campaign round. Today that break shows the game's own card for Ad-free Realm; no third-party advertising code is in the game and nothing about you is sent anywhere. If we ever add an advertising network, we will update this policy, the store listings and the game before that version ships, and ads shown to anyone who may be a child will be non-personalised.
+In the iPhone, iPad and Android apps, free play shows a short ad from Google AdMob after each campaign round (never in the tutorial or local multiplayer). If no ad is available, and in the Mac and web versions, the break shows the game's own card for Ad-free Realm instead. Buying Ad-free Realm removes the break entirely.
+
+To show ads, Google's Mobile Ads SDK collects and processes information about your device and how ads perform: your IP address (used for approximate location), device and app information, ad interactions, and, only if you allow it, your device's advertising identifier. Google acts as an independent controller of this data under [Google's privacy policy](https://policies.google.com/privacy) and [how Google uses information from apps that use its services](https://policies.google.com/technologies/partner-sites).
+
+**Your choices.** In the European Economic Area, the UK, Switzerland and other places where the law requires it, the app asks for your consent with Google's consent form the first time it opens, and Settings › Ad-free Realm › Ad privacy choices lets you change it at any time. On iPhone and iPad, the app asks Apple's permission to track; if you choose "Ask App Not to Track", ads are not personalised and your advertising identifier is not used. On Android you can reset or delete your advertising ID in your device's settings. Ads are limited to content suitable for general audiences.
 
 ## Children
 
