@@ -6,7 +6,7 @@ Realmrider is made and published by Ansel LaPier ("we"). This policy covers the 
 
 ## The short version
 
-- Realmrider has no accounts, no sign-in and no crash reporting. In the iPhone, iPad and Android apps, the break after each round shows ads from Google AdMob; you choose whether those ads may be personalised (see Ads below). The apps also send anonymous play statistics (which missions are started, lost and won) so we can tune the difficulty (see Play statistics below).
+- Realmrider has no accounts, no sign-in and no crash reporting. In the iPhone, iPad and Android apps, the break after each round shows ads from Google AdMob; you choose whether those ads may be personalised (see Ads below). The apps also send anonymous play statistics (which missions are started, lost and won) so we can tune the difficulty; you can turn them off in Settings (see Play statistics below).
 - Everything the game saves stays on your device. We run no server and we never receive your saved progress or settings.
 - The one purchase, Ad-free Realm, is handled entirely by Apple or Google. We never see your name, email or payment details.
 - You can erase everything the game stored at any time by deleting the app, or from Settings › Support and privacy › Delete my data in game versions released after 2 November 2026.
@@ -50,6 +50,8 @@ To show ads, Google's Mobile Ads SDK collects and processes information about yo
 To make the missions fair, not too hard and not too easy, the iPhone, iPad, Mac and Android apps send anonymous play statistics to TelemetryDeck (TelemetryDeck GmbH, Germany), which processes them on our behalf. The web build sends none.
 
 What is sent: when a campaign mission starts (which mission, its game mode, and how many tries it has taken), how you were knocked off your mount in it (for example by a rival, your own trail, a beast, quicksand or lava), and when you win it. The app also sends when it is opened and how long you play, so we can see how many players come back. Each signal carries the app version, the device type and system version, and an identifier that the TelemetryDeck SDK makes on your device and scrambles (hashes) before it is sent, so neither we nor TelemetryDeck can tell who you are or link it to the advertising identifier. No name, account, email, location or advertising identifier is sent, and the statistics are not used for ads or shared with anyone else. See [TelemetryDeck's privacy policy](https://telemetrydeck.com/privacy/).
+
+**Your choice.** Play statistics are on unless you turn them off. Switch off Settings › Privacy › Share play stats and the app stops sending them at once, including the session and return-visit counts.
 
 ## Children
 
