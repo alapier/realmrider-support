@@ -1,6 +1,6 @@
 # Realmrider Privacy Policy
 
-Effective [DATE OF THE ADS RELEASE] · Version 3.0 (draft) · [Support](../index.html) · [Terms](terms.html) · [Refunds](refunds.html) · [Cookies](cookies.html)
+Effective 16 November 2026 · Version 3.0 · [Support](../index.html) · [Terms](terms.html) · [Refunds](refunds.html) · [Cookies](cookies.html)
 
 Realmrider is made and published by Ansel LaPier ("we"). This policy covers the Realmrider game for iPhone, iPad, Mac and Android, and the web build. It describes only what the game actually does; it was written from the game's source code.
 
